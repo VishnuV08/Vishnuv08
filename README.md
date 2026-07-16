@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there 👋, I'm Vishnu V
 
-<!--
-**Vishnuv08/Vishnuv08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electrical & Electronics Engineering Student
 
-Here are some ideas to get you started:
+💡 Passionate about Embedded Systems, IoT, and Automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🎓 B.E. Electrical and Electronics Engineering
+- 🔭 Working on Embedded Systems and IoT projects
+- 🌱 Currently learning Python, ESP32, Arduino, and MicroPython
+- 🎯 Goal: Pursue a Master's 
+- 📍 Coimbatore, Tamil Nadu, India
+
+## 🛠️ Skills
+- Python
+- Arduino
+- ESP32 (NodeMCU)
+- MicroPython
+- LoRa
+- IoT
+- Embedded Systems
+- AutoCAD
+- MS Excel
+- Power BI
+
+## 🚀 Projects
+- LoRa-Based Coal Mine Safety Monitoring & Security System Using Rover
+- Weather Monitoring System
+- Arduino Sensor Projects
+- Web Calculator
+
+## 📜 Certifications
+- Embedded Systems Using MicroPython – Clover Technologies
+- Infosys Foundation Finishing School – Artificial Intelligence
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/vishnu-v-6a3344333
+- Email: ni2vishnuvelu@gmail.com
